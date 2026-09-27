@@ -1,0 +1,11 @@
+{
+  "name":"Rehberim - Arama ve Takip Uygulaması",
+  "short_name":"Rehberim",
+  "start_url":"./index.html",
+  "scope":"./",
+  "display":"standalone",
+  "orientation":"portrait",
+  "background_color":"#eef2f7",
+  "theme_color":"#172554",
+  "lang":"tr"
+}

@@ -1,0 +1,29 @@
+{
+  "listeTarihi": "27.09.2026",
+  "kisiler": [
+    {
+      "sistemNo": "385653",
+      "adSoyad": "Ahmet Yılmaz",
+      "telefon": "0555 111 22 33",
+      "bendler": "Tedbir kararı, uzaklaştırma kararı mevcut.",
+      "kararSuresi": "6 Ay",
+      "kararBitisTarihi": "15.12.2026"
+    },
+    {
+      "sistemNo": "385654",
+      "adSoyad": "Mehmet Kaya",
+      "telefon": "0532 222 33 44",
+      "bendler": "Tedbir kararı mevcut.",
+      "kararSuresi": "3 Ay",
+      "kararBitisTarihi": "20.11.2026"
+    },
+    {
+      "sistemNo": "385655",
+      "adSoyad": "Ayşe Demir",
+      "telefon": "0544 333 44 55",
+      "bendler": "Tedbir kararı.",
+      "kararSuresi": "6 Ay",
+      "kararBitisTarihi": "05.01.2027"
+    }
+  ]
+}
